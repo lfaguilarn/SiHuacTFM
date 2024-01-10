@@ -4,6 +4,7 @@ Controladores\clienteController$1.class
 Vistas\Principal$1.class
 Controladores\metodos$5.class
 Controladores\visitaController.class
+Vistas\InicioSesion$3.class
 Entidades\consumo.class
 Controladores\metodos$2.class
 Controladores\visitaController$1.class
@@ -17,6 +18,7 @@ Coneccion\Datos.class
 Vistas\Inicio.class
 Vistas\Principal.class
 Entidades\cliente_Hab.class
+Vistas\InicioSesion$4.class
 Controladores\metodos$4.class
 Entidades\valor_Hosp.class
 Entidades\usuario.class
@@ -29,6 +31,7 @@ Vistas\InicioSesion.class
 Controladores\cliente_HabController$1.class
 Entidades\habitacion.class
 Controladores\reservacionController$1.class
+Vistas\InicioSesion$2.class
 Controladores\cliente_HabController$2.class
 Entidades\cliente.class
 Entidades\reservacion.class

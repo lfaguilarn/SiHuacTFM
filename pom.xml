@@ -68,4 +68,10 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+    <repositories>
+    <repository>
+        <id>postgresql</id>
+        <url>https://oss.sonatype.org/content/repositories/releases</url>
+    </repository>
+    </repositories>
 </project>
